@@ -1,0 +1,13 @@
+E:\Visual Studio Projects\摄影测量实习\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Visual Studio Projects\摄影测量实习\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Visual Studio Projects\摄影测量实习\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Visual Studio Projects\摄影测量实习\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\Visual Studio Projects\摄影测量实习\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Visual Studio Projects\摄影测量实习\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Visual Studio Projects\摄影测量实习\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\摄影测量实习\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Visual Studio Projects\摄影测量实习\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Visual Studio Projects\摄影测量实习\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LoadOrientationData.resources
+E:\Visual Studio Projects\摄影测量实习\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
+E:\Visual Studio Projects\摄影测量实习\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CalculateResults.resources
+E:\Visual Studio Projects\摄影测量实习\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GetPointName.resources
